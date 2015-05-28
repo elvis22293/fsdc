@@ -1,0 +1,71 @@
+HTTrack3.48-19+htsswf+htsjava launched on Fri, 22 May 2015 18:23:07 at http://www.fibersensing.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh_HK, en, *" http://www.fibersensing.com/ -O1 "C:\Users\demo\Desktop\fiber\fiber" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:28:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=90e80077-f142-493d-b4f7-d943b55384cc
+18:42:36	Error: 	"Not Found" (404) at link www.fibersensing.com/external (from www.fibersensing.com/)
+19:05:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 4426827 got 4423840): www.fibersensing.com/public/files/market/fibra-1-2-glow.gif
+19:06:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 952226 got 725303): www.fibersensing.com/media/casestudies/8/entrada.jpg
+19:20:30	Error: 	"Not Found" (404) at link www.fibersensing.com/public/files/home/world-home-flat.webm (from www.fibersensing.com/)
+19:21:57	Error: 	"Not Found" (404) at link www.fibersensing.com/public/scripts/grab.png (from www.fibersensing.com/public/scripts/fibersensing.min.css)
+19:21:57	Error: 	"Not Found" (404) at link www.fibersensing.com/public/scripts/grabbing.png (from www.fibersensing.com/public/scripts/fibersensing.min.css)
+19:21:57	Error: 	"Not Found" (404) at link www.fibersensing.com/public/scripts/blank.gif (from www.fibersensing.com/public/scripts/fibersensing.min.css)
+19:22:45	Error: 	"Not Found" (404) at link www.fibersensing.com/news/all/page/ (from www.fibersensing.com/news)
+19:22:45	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/external (from www.fibersensing.com/rd/projects)
+19:23:45	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/projects/all/page/ (from www.fibersensing.com/rd/projects)
+19:23:45	Error: 	"Not Found" (404) at link www.fibersensing.com/market/external (from www.fibersensing.com/market/civil)
+19:23:45	Error: 	"Not Found" (404) at link www.fibersensing.com/public/files/market/civil-video-world.ogg (from www.fibersensing.com/market/civil)
+19:31:19	Warning: 	Retry after error -4 (Incorrect length (4423840 Bytes, 4426827 expected)) at link www.fibersensing.com/public/files/market/fibra-1-2-glow.gif (from www.fibersensing.com/market/energy)
+19:40:10	Error: 	"Not Found" (404) at link www.fibersensing.com/cases/external (from www.fibersensing.com/cases/siemens)
+19:40:10	Warning: 	Retry after error -4 (Incorrect length (725303 Bytes, 952226 expected)) at link www.fibersensing.com/media/casestudies/8/entrada.jpg (from www.fibersensing.com/cases/siemens)
+19:42:02	Error: 	"Not Found" (404) at link www.fibersensing.com/news/events/view/external (from www.fibersensing.com/news/events/view/windexpo-2015)
+19:42:02	Error: 	"Not Found" (404) at link www.fibersensing.com/news/our-news/view/external (from www.fibersensing.com/news/our-news/view/optical-sensors-for-iter-fusion-experiment)
+19:42:02	Error: 	"Not Found" (404) at link www.fibersensing.com/products/measurement-units/view/external (from www.fibersensing.com/products/measurement-units/view/fs2100-industrial-braggmeter)
+19:42:04	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/external (from www.fibersensing.com/products/fbg-sensors/view/single-axis-accelerometer)
+19:42:05	Error: 	"Not Found" (404) at link www.fibersensing.com/company/view/external (from www.fibersensing.com/company/view/fbg-technology)
+19:42:05	Error: 	"Not Found" (404) at link www.fibersensing.com/news/external (from www.fibersensing.com/news/our-news)
+19:42:20	Error: 	"Not Found" (404) at link www.fibersensing.com/news/events/page/ (from www.fibersensing.com/news/events)
+19:42:21	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/publications/page/ (from www.fibersensing.com/rd/publications)
+19:42:21	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/projects/external (from www.fibersensing.com/rd/projects/ongoing)
+19:42:55	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/projects/ongoing/view/external (from www.fibersensing.com/rd/projects/ongoing/view/flpp-phase-3)
+19:42:55	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/projects/concluded/view/external (from www.fibersensing.com/rd/projects/concluded/view/satellite)
+19:42:55	Error: 	"Not Found" (404) at link www.fibersensing.com/media/rdprojects/7/100_1539.jpg (from www.fibersensing.com/rd/projects/concluded/view/satellite)
+19:42:55	Error: 	"Not Found" (404) at link www.fibersensing.com/market/civil/view/external (from www.fibersensing.com/market/civil/view/temperature-monitoring-ponte-de-leca)
+19:42:57	Error: 	"Not Found" (404) at link www.fibersensing.com/market/energy/view/external (from www.fibersensing.com/market/energy/view/vibration-monitoring-oem-system-12)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/market/aerospace/view/external (from www.fibersensing.com/market/aerospace/view/spacecraft-health-monitoring-42)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/42/picture6.jpg (from www.fibersensing.com/market/aerospace/view/spacecraft-health-monitoring-42)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/24/picture_009.jpg (from www.fibersensing.com/market/aerospace/view/strain-monitoring-24)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/23/dsc01722.jpg (from www.fibersensing.com/market/aerospace/view/strain-monitoring-23)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/market/wind/view/external (from www.fibersensing.com/market/wind/view/load-test)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/19/p1000597.jpg (from www.fibersensing.com/market/wind/view/condition-monitoring-system-19)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/market/other/view/external (from www.fibersensing.com/market/other/view/vibration-monitoring-40)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/40/110401_n_sf508_181_jpg.jpg (from www.fibersensing.com/market/other/view/vibration-monitoring-40)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/34/dsc01584.jpg (from www.fibersensing.com/market/other/view/strain-monitoring-34)
+19:42:59	Error: 	"Not Found" (404) at link www.fibersensing.com/media/applications/29/iter_reactor.jpg (from www.fibersensing.com/market/other/view/strain-temperature-and-displacement-monitoring)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/products/accessories/view/external (from www.fibersensing.com/products/accessories/view/fs-8x00-jumpers)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/products/measurement-units/view/fs2100-industrial-braggmeter/download/external (from www.fibersensing.com/products/measurement-units/view/fs2100-industrial-braggmeter/download/889)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/products/measurement-units/view/fs4200-portable-braggmeter/download/external (from www.fibersensing.com/products/measurement-units/view/fs4200-portable-braggmeter/download/893)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/single-axis-accelerometer/download/external (from www.fibersensing.com/products/fbg-sensors/view/single-axis-accelerometer/download/895)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/surface-strain-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/surface-strain-sensor/download/879)
+19:43:16	Error: 	"Not Found" (404) at link www.fibersensing.com/news/in-the-news/view/external (from www.fibersensing.com/news/in-the-news/view/2014-10-30-pais-positivo)
+19:43:40	Error: 	"Not Found" (404) at link www.fibersensing.com/rd/publications/view/external (from www.fibersensing.com/rd/publications/view/wtc-20)
+19:44:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 1509549 got 1188123): www.fibersensing.com/media/rdprojects/5/detail_fbg_setup2_png.png
+19:44:39	Warning: 	Retry after error -4 (Incorrect length (1188123 Bytes, 1509549 expected)) at link www.fibersensing.com/media/rdprojects/5/detail_fbg_setup2_png.png (from www.fibersensing.com/rd/projects/concluded/view/prosensor)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6300-weldable-temperature-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6300-weldable-temperature-sensor/download/887)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6300-embedded-temperature-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6300-embedded-temperature-sensor/download/886)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/embedded-strain-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/embedded-strain-sensor/download/881)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6300-high-temperature-dielectric-probe/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6300-high-temperature-dielectric-probe/download/755)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/composite-temperature-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/composite-temperature-sensor/download/883)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6200-strain-sensors/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6200-strain-sensors/download/877)
+19:45:08	Error: 	"Not Found" (404) at link www.fibersensing.com/products/measurement-units/view/fs2100-fs2200-industrial-braggmeter-dyanmic/download/external (from www.fibersensing.com/products/measurement-units/view/fs2100-fs2200-industrial-braggmeter-dyanmic/download/756)
+19:45:10	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/tilt-meter/download/external (from www.fibersensing.com/products/fbg-sensors/view/tilt-meter/download/884)
+19:45:10	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6200-polyimide-strain-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6200-polyimide-strain-sensor/download/876)
+19:45:33	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/weldable-strain-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/weldable-strain-sensor/download/878)
+19:45:33	Error: 	"Not Found" (404) at link www.fibersensing.com/products/fbg-sensors/view/fs6200-athermal-strain-sensor/download/external (from www.fibersensing.com/products/fbg-sensors/view/fs6200-athermal-strain-sensor/download/954)
+
+HTTrack Website Copier/3.48-19 mirror complete in 1 hours 22 minutes 26 seconds : 816 links scanned, 759 files written (124308574 bytes overall) [121560073 bytes received at 24577 bytes/sec], 5124603 bytes transferred using HTTP compression in 271 files, ratio 26%, 2.0 requests per connection
+(53 errors, 7 warnings, 0 messages)

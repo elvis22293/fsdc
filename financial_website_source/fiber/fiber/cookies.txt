@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fibersensing.com	TRUE	/	FALSE	1999999999	PHPSESSID	q16qt990jhbbahdnk94j6eclg6
+www.fibersensing.com	TRUE	/	FALSE	1999999999	app_token	8629dca95381112593a9f7286a4d1452f009e668s%3A40%3A%2263de2c7779ea14d181b4465f255ed0249e3b04ee%22%3B
+www.fibersensing.com	TRUE	/	FALSE	1999999999	app_language	90ddadccfe7c259a3e4aadcadabd0f21644d3e6es%3A2%3A%22en%22%3B
+

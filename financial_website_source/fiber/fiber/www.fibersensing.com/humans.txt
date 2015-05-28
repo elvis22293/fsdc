@@ -1,0 +1,14 @@
+/* TEAM */
+    Made with love at Bürocratik
+
+    Company: Bürocratik
+    Site:    www.burocratik.com
+    Contact: hello[at]burocratik.com
+    Twitter: @burocratik
+    From:    Coimbra, Portugal
+
+
+/* SITE */
+    Doctype:    HTML5
+    Standards:  HTML5, CSS3
+    Components: jQuery, Modernizr, etc.
